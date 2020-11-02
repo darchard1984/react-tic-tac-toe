@@ -132,10 +132,9 @@ class Game extends React.Component {
 							<ol>{moves}</ol>
 					</div>
 			</div>
-			);
+    );
 	}
 }
-
 
 ReactDOM.render(
 <Game />,
